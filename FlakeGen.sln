@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28407.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlakeGen", "FlakeGen.csproj", "{20D93C82-DDB2-4585-A78F-5A93F629009F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OMPflake", "..\CUDAflake\CUDAflake\CUDAflake.vcxproj", "{B9EF1EC7-A28E-4A3E-B000-D16723E87477}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OMPflake", "OMPflake\CUDAflake.vcxproj", "{B9EF1EC7-A28E-4A3E-B000-D16723E87477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
